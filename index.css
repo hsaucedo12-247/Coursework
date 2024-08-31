@@ -1,0 +1,72 @@
+.wrapper{
+    width:700px;
+    background: lightgreen;
+    margin: 0 auto 0 auto;
+}
+
+.heading{
+    height: 100px;
+    background: darkgreen;
+    padding: 20px;
+    text-align: center;
+    border: 3px solid yellow;
+    color: yellow;
+}
+
+.Snacks{
+    height: 250px;
+    background: grey;
+    float: left;
+    width: 315px;
+    padding:10px ;
+    border: 3px solid;
+    margin: 10px;
+    font-size: 20px;
+
+}
+
+.Canned{
+    height: 250px;
+    background: green;
+    width: 315px;
+    float: right;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.Veggies{
+    height: 250px;
+    background: grey;
+    float: left;
+    width: 315px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.Drinks{
+    height: 250px;
+    background: green;
+    width: 315px;
+    float: right;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.Footer{
+    clear: both;
+    background: darkgreen;
+    height: 40px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid black;
+}
+
+
